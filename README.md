@@ -42,4 +42,11 @@ Or run the project with the ICP algorithm by using Unix command:
 Once the project is running, click on the map and tap the UP key 3 times. This improved version of the project normally works at the first run. However, if the green car gets left behind, run the project again and tap the UP key 3 times again.
 
 The NDT algorithm works better than the ICP algorithm. Even if the car hits the wall at the end, the NDT algorithm will not produce an error greater than 1.2 meters.
+# NDT image
+![NDT](https://user-images.githubusercontent.com/22205974/156472384-abcd118f-b385-4ad0-b8fe-85aba8e92028.png)
+![NDTimage](https://user-images.githubusercontent.com/22205974/156472388-aa44b95b-e786-4d2c-bb39-1a4e48d31b87.png)
+
+
+# ICP image
+![ICPimage](https://user-images.githubusercontent.com/22205974/156472409-4ce7955b-0e16-41a7-9b4e-afd6d6b3ae53.png)
 
